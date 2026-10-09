@@ -1,0 +1,7 @@
+MODELOS DE POLLITOS
+
+Cada modelo tiene su propia carpeta. Arrastra el modelo FBX u OBJ desde Project a la escena para probarlo.
+Chick incluye sus dos texturas de cuerpo y ojos. LazyChicken incluye OBJ, MTL y textura.
+TexturasPorAsignar contiene las imagenes de textures.rar; aun no se ha comprobado a que modelo corresponden.
+Los archivos originales y hei.blend permanecen en la carpeta pollitos de la raiz del proyecto.
+Estos recursos aun no son personajes jugables: falta configurar materiales si es necesario, escala, colisiones, arma y controles.
